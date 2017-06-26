@@ -1,0 +1,21 @@
+{
+  "name": "fake-news",
+  "version": "0.0.1",
+  "main": "server.js",
+  "author": "Hanjun Chen",
+  "dependencies": {
+    "@google-cloud/language": "^0.10.5",
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "cheerio": "latest",
+    "cors": "^2.8.3",
+    "express": "latest",
+    "request": "latest"
+  },
+  "license": "MIT",
+  "repository": {},
+  "description": "no description",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
